@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohanraj
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Nextjs
-- 💞️ I’m looking to collaborate on Frontend Projects
+- 👀 I’m interested in AI
+- 🌱 I’m currently Rag and LLMs
+- 💞️ I’m looking to collaborate on AI related solutions for freelancing 
 - 📫 How to reach me mohanrajam321@gmail.com
 
 
